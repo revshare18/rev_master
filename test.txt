@@ -1,1 +1,5 @@
 sample ni reuben ito
+<<<<<<< HEAD
+=======
+shimei
+>>>>>>> mybranch
